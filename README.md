@@ -5,11 +5,6 @@ PERFIL EM CONSTRUÇÂO
   <a href="https://www.linkedin.com/in/guilhermepedroza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Hi there👋. Welcome to my profile
-<img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="200"> <img style="margin: 0 auto" src="https://media4.giphy.com/media/AHcEGB5nuIALBqKWjp/giphy.gif" height="200">
-
-
-
 ## 📊 My Github Stats
 
 <br/>
