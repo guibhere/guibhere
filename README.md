@@ -1,16 +1,25 @@
-### Hi there 👋
+# Guilherme Vinicius Pedroso
+PERFIL EM CONSTRUÇÂO
+<div> 
+  <a href = "mailto:bherewow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilhermepedroza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-<!--
-**guibhere/guibhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there👋. Welcome to my profile
+<img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="200"> <img style="margin: 0 auto" src="https://media4.giphy.com/media/AHcEGB5nuIALBqKWjp/giphy.gif" height="200">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📊 My Github Stats
+
+<br/>
+  <a href="https://github.com/guibhere.git"><img alt="Guilherme Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=guibhere&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/guibhere.git"><img alt="Guilherme Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibhere&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>  
+ 
+## 🚀 Languages, Technology And Tools:
+em construção.....
+  
+ 
+ 
+
